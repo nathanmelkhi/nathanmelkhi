@@ -1,0 +1,11 @@
+D:\tugas bu yuricha\Quiz\obj\Debug\netcoreapp2.2\Quiz.csprojAssemblyReference.cache
+D:\tugas bu yuricha\Quiz\obj\Debug\netcoreapp2.2\Quiz.csproj.CoreCompileInputs.cache
+D:\tugas bu yuricha\Quiz\obj\Debug\netcoreapp2.2\Quiz.AssemblyInfoInputs.cache
+D:\tugas bu yuricha\Quiz\obj\Debug\netcoreapp2.2\Quiz.AssemblyInfo.cs
+D:\tugas bu yuricha\Quiz\bin\Debug\netcoreapp2.2\Quiz.deps.json
+D:\tugas bu yuricha\Quiz\bin\Debug\netcoreapp2.2\Quiz.runtimeconfig.json
+D:\tugas bu yuricha\Quiz\bin\Debug\netcoreapp2.2\Quiz.runtimeconfig.dev.json
+D:\tugas bu yuricha\Quiz\bin\Debug\netcoreapp2.2\Quiz.dll
+D:\tugas bu yuricha\Quiz\bin\Debug\netcoreapp2.2\Quiz.pdb
+D:\tugas bu yuricha\Quiz\obj\Debug\netcoreapp2.2\Quiz.dll
+D:\tugas bu yuricha\Quiz\obj\Debug\netcoreapp2.2\Quiz.pdb
